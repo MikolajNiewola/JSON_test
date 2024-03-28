@@ -1,63 +1,85 @@
 {
-    "Monsters":[
+    "Monsters": [
         {
-            "id":1,
-            "name":"Blob",
-            "desc":"no blob no, chodzi i tyle, wolny jest.",
-            "img":"blob"
-        },{
-            "id":2,
-            "name":"Bracken",
-            "desc":"jest czarny, ergo trzeba bić",
-            "img":"bracken"
-        },{
-            "id":3,
-            "name":"Coilhead",
-            "desc":"patrz",
-            "img":"coilhead"
-        },{
-            "id":4,
-            "name":"Eyeless dog",
-            "desc":"pies... DUŻY",
-            "img":"dog"
-        },{
-            "id":5,
-            "name":"teammate",
-            "desc":"najgorszy z najgorszych",
-            "img":"employee"
-        }
-    ],
-
-    "Items":[
-        {
-            "id":1,
-            "name":"shobel",
-            "desc":"opata. bijesz. to tyle",
-            "img":"shovel"
+            "id": 1,
+            "name": "Blob",
+            "desc": "no blob no, chodzi i tyle, wolny jest.",
+            "img": "blob"
         },
         {
-            "id":2,
-            "name":"flashlight",
-            "desc":"latarka, no świeci. Czego się spodziewałeś?",
-            "img":"flashlight"
-        }
-    ], 
-
-    "Tips":[
+            "id": 2,
+            "name": "Bracken",
+            "desc": "jest czarny, ergo trzeba bić",
+            "img": "bracken"
+        },
         {
-            "id":1,
-            "name":"tip numero uno",
-            "desc":"tip jakiś"
+            "id": 3,
+            "name": "Coilhead",
+            "desc": "patrz",
+            "img": "coilhead"
+        },
+        {
+            "id": 4,
+            "name": "Eyeless dog",
+            "desc": "pies... DUŻY",
+            "img": "dog"
+        },
+        {
+            "id": 5,
+            "name": "teammate",
+            "desc": "najgorszy z najgorszych",
+            "img": "employee"
         }
     ],
-
-    "Logs":[
+    "Items": [
         {
-            "id":1,
-            "name":"śmierć",
-            "desc":"wszyscy nie",
-            "img":"log_1_location"
+            "id": 1,
+            "name": "shobel",
+            "desc": "opata. bijesz. to tyle",
+            "img": "shovel"
+        },
+        {
+            "id": 2,
+            "name": "flashlight",
+            "desc": "latarka, no świeci. Czego się spodziewałeś?",
+            "img": "flashlight"
         }
-
+    ],
+    "Tips": [
+        {
+            "id": 1,
+            "name": "tip numero uno",
+            "desc": "tip jakiś"
+        }
+    ],
+    "Logs": [
+        {
+            "id": 1,
+            "name": "śmierć",
+            "desc": "wszyscy nie",
+            "img": "log_1_location"
+        }
+    ],
+    "Game": [
+        {
+            "name": "Gaben1",
+            "Hi-Score": 1000
+        },
+        {
+            "name": "Gaben2",
+            "Hi-Score": 900
+        },
+        {
+            "name": "Gaben3",
+            "Hi-Score": 500
+        },
+        {
+            "name": "Gaben4",
+            "Hi-Score": 250
+        },
+        {
+            "name": "Gaben5",
+            "Hi-Score": 100
+        }
     ]
 }
