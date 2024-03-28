@@ -1,0 +1,28 @@
+[
+        {
+            "monster_id":1,
+            "monster_name":"Blob",
+            "monster_desc":"no blob no, chodzi i tyle, wolny jest.",
+            "monster_img":"blob.png"
+        },{
+            "monster_id":2,
+            "monster_name":"Bracken",
+            "monster_desc":"jest czarny, ergo trzeba bić",
+            "monster_img":"bracken.png"
+        },{
+            "monster_id":3,
+            "monster_name":"Coilhead",
+            "monster_desc":"patrz",
+            "monster_img":"coilhead.png"
+        },{
+            "monster_id":4,
+            "monster_name":"Eyeless dog",
+            "monster_desc":"pies... DUŻY",
+            "monster_img":"dog.png"
+        },{
+            "monster_id":5,
+            "monster_name":"teammate",
+            "monster_desc":"najgorszy z najgorszych",
+            "monster_img":"employee.png"
+        }
+    ]
