@@ -213,10 +213,10 @@
             "img":"radar-booster"
 		},{
 			"id":12,
-            "name":"Spray Paint",
+            		"name":"Spray Paint",
 			"price":50,
-            "desc":"The Spray Paint can be used just for fun to make art or otherwise mess around with. It can also be used practically, such as to mark dead ends and the way back to prevent getting lost.",
-            "img":"spray-paint"
+            		"desc":"The Spray Paint can be used just for fun to make art or otherwise mess around with. It can also be used practically, such as to mark dead ends and the way back to prevent getting lost.",
+           		"img":"spray-paint"
 		},{
 			"id":13,
             "name":"Teleporter",
